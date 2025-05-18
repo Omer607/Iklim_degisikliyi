@@ -15,3 +15,7 @@ Kullaniciyi **"Iklim Degisikliyi"** hakkinda bilgilendirmek icin tasarlanan **Di
 - !ID_ne_yapabilir
 - !ID_nasil_onlenebilinir
 - !ID_sorulari
+
+### Gerekli Kutuphaneler:
+- Pillow
+- discord.py
