@@ -15,6 +15,8 @@ Kullaniciyi **"Iklim Degisikliyi"** hakkinda bilgilendirmek icin tasarlanan **Di
 - !iklim_ne_yapabilir
 - !iklim_nasil_onlenebilir
 - !iklim_sorulari
+- !yardim
+- !hakkinda
 
 ### Gerekli Kutuphaneler:
 - Pillow
