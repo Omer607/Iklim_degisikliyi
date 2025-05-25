@@ -279,6 +279,16 @@ async def hakkinda(ctx):
     await ctx.send(embed=embed)
 
 
+@bot.command()
+async def github(ctx):
+    embed = discord.Embed(
+        title="GitHub Repository",
+        description="[Click here to visit the Climate Change Bot GitHub](https://github.com/Omer607/Iklim_degisikliyi)",
+        color=0x3498db
+    )
+    await ctx.send(embed=embed)
+
+
 bot.remove_command('help')
 
 
