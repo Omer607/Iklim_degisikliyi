@@ -13,7 +13,7 @@ Kullaniciyi **"Iklim Degisikliyi"** hakkinda bilgilendirmek icin tasarlanan **Di
 - !ID_nedir
 - !ID_sebebleri
 - !ID_ne_yapabilir
-- !ID_nasil_onlenebilinir
+- !ID_nasil_onlenebilir
 - !ID_sorulari
 
 ### Gerekli Kutuphaneler:
