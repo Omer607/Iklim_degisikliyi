@@ -1,4 +1,4 @@
-# Iklim_degisikliyi
+# Project Climate Change (Iklim_degisikliyi)
 
 ### Iklim degisikliyi hakkinda bilgi veren discord botu
 
