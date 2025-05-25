@@ -10,11 +10,11 @@ Kullaniciyi **"Iklim Degisikliyi"** hakkinda bilgilendirmek icin tasarlanan **Di
 - Daha fazlasi
 
 ### Komutlar:
-- !ID_nedir
-- !ID_sebebleri
-- !ID_ne_yapabilir
-- !ID_nasil_onlenebilir
-- !ID_sorulari
+- !iklim_nedir
+- !iklim_sebebleri
+- !iklim_ne_yapabilir
+- !iklim_nasil_onlenebilir
+- !iklim_sorulari
 
 ### Gerekli Kutuphaneler:
 - Pillow
