@@ -17,6 +17,7 @@ Kullaniciyi **"Iklim Degisikliyi"** hakkinda bilgilendirmek icin tasarlanan **Di
 - !iklim_sorulari
 - !yardim
 - !hakkinda
+- !github
 
 ### Gerekli Kutuphaneler:
 - Pillow
