@@ -11,7 +11,7 @@ Kullaniciyi **"Iklim Degisikliyi"** hakkinda bilgilendirmek icin tasarlanan **Di
 
 ### Komutlar:
 - !iklim_nedir
-- !iklim_sebebleri
+- !iklim_sebepleri
 - !iklim_etkileri
 - !iklim_cozum
 - !iklim_sorulari
