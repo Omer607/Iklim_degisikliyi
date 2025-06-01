@@ -13,7 +13,7 @@ Kullaniciyi **"Iklim Degisikliyi"** hakkinda bilgilendirmek icin tasarlanan **Di
 - !iklim_nedir
 - !iklim_sebebleri
 - !iklim_etkileri
-- !iklim_nasil_onlenebilir
+- !iklim_cozum
 - !iklim_sorulari
 - !yardim
 - !hakkinda
